@@ -1,0 +1,17 @@
+﻿# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos binarios y compilados
+bin/
+obj/
+
+# Archivos de configuración local
+*.http
+*.log
+*.db
+*.DS_Store
+
+# Configuración personal de Visual Studio
+*.sln.docstates
